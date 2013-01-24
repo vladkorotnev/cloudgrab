@@ -1,0 +1,6 @@
+1. cd ~/CloudApp-backup
+2. /cloudgrab/grab.py
+3. login
+4. done
+
+Requires https://github.com/originell/pycloudapp
